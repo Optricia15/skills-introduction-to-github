@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - "my-first-branch"
+      - "copilot/tech-lady"
     paths:
       - "PROFILE.md"
 
